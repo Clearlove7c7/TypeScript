@@ -1,0 +1,39 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/Demo/Demo03.js" />
+        <item url="file://$PROJECT_DIR$/Demo/Demo04.js" />
+        <item url="file://$PROJECT_DIR$/Demo/Demo05.js" />
+        <item url="file://$PROJECT_DIR$/Demo/Demo06.js" />
+        <item url="file://$PROJECT_DIR$/Demo/Demo07.js" />
+        <item url="file://$PROJECT_DIR$/Demo/Demo08.js" />
+        <item url="file://$PROJECT_DIR$/Demo/Demo09.js" />
+        <item url="file://$PROJECT_DIR$/Demo/Demo10.js" />
+        <item url="file://$PROJECT_DIR$/Demo/Demo11.js" />
+        <item url="file://$PROJECT_DIR$/Demo/Demo12.js" />
+        <item url="file://$PROJECT_DIR$/Demo/Demo13.js" />
+        <item url="file://$PROJECT_DIR$/Demo/Demo14.js" />
+        <item url="file://$PROJECT_DIR$/Demo/Demo15.js" />
+        <item url="file://$PROJECT_DIR$/Demo/HelloWorlds.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/Demo/Demo03.js" />
+      <root url="file://$PROJECT_DIR$/Demo/Demo04.js" />
+      <root url="file://$PROJECT_DIR$/Demo/Demo05.js" />
+      <root url="file://$PROJECT_DIR$/Demo/Demo06.js" />
+      <root url="file://$PROJECT_DIR$/Demo/Demo07.js" />
+      <root url="file://$PROJECT_DIR$/Demo/Demo08.js" />
+      <root url="file://$PROJECT_DIR$/Demo/Demo09.js" />
+      <root url="file://$PROJECT_DIR$/Demo/Demo10.js" />
+      <root url="file://$PROJECT_DIR$/Demo/Demo11.js" />
+      <root url="file://$PROJECT_DIR$/Demo/Demo12.js" />
+      <root url="file://$PROJECT_DIR$/Demo/Demo13.js" />
+      <root url="file://$PROJECT_DIR$/Demo/Demo14.js" />
+      <root url="file://$PROJECT_DIR$/Demo/Demo15.js" />
+      <root url="file://$PROJECT_DIR$/Demo/HelloWorlds.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
